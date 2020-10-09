@@ -53,7 +53,7 @@ The following steps are followed for the data analysis and Prediction:
 - Step 6: Model Accuracy
 - Step 7: Further Improvement of Model
 
-![](https://drive.google.com/uc?export=view&id=1tOfzYBIleeJWS5BmKRkvSIgiqjsgQZmL)
+![Image1](https://github.com/mayorofdata/Breast-Cancer-Classification-using-Support-Vector-Machine/blob/main/bc1.PNG)
 
 # The model is created using Support Vector Machine
 - A Support Vector Machine is a supervised algorithm that can classify cases by finding a separator.
@@ -76,8 +76,7 @@ problems. In addition, SVMs are not very efficient computationally, if your data
 you have more than one thousand rows.
 - SVM is good for image analysis tasks, such as image classification and handwritten digit recognition. Also SVM is very effective in text-mining tasks, particularly due to its effectiveness in dealing with high-dimensional data. For example, it is used for detecting spam, text category assignment, and sentiment analysis. Another application of SVM is in Gene Expression data classification, again, because of its power in high dimensional data classification. SVM can also be used for other types of machine learning problems, such as regression, outlier detection, and clustering.
 
-![](https://drive.google.com/uc?export=view&id=1CDetS2GBWAx6mNaqQMDXos7EnvfvGB6w)
-
+![Image2](https://github.com/mayorofdata/Breast-Cancer-Classification-using-Support-Vector-Machine/blob/main/svm.PNG)
 
 # Conclusion
 Machine learning techniques(SVM) was able to classify tumors effectively into malignant and benign tumors with 99 percent accuracy. The technique can rapidly evaluate breast masses and classify them in an automated fashion.
